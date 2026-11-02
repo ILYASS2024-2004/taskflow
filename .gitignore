@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+node_modules/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+.env
+.env.*
